@@ -5,7 +5,7 @@ I had a lot of difficulties to develop some things, with friends, version confli
 
 
 Environment
-- PHP v7.4 com Symfony v5.3
+- PHP v7.4 with Symfony v5.3
 - Nginx Latest
 - MySQL v8.0.26
 
